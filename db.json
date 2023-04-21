@@ -6,6 +6,16 @@
         "email": "gtatterton0@ehow.com",
         "password":"051@123"
       }
+    ],
+    "dogs" : [
+        {
+          "id": 1,
+          "name": "Cherry",
+          "age": 2,
+          "place": "Visakhapatnam",
+          "gender": "Male"
+        }
+      
     ]
  
   }
