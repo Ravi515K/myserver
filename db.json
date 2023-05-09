@@ -47,6 +47,16 @@
         "Description": "Tata Altroz with all original documents",
         "Price": 500000
       }
+    ],
+    "employee":[
+      {
+        "id":1,
+        "firstname":"Ravi",
+        "lastname":"Koli",
+        "email":"koli@123",
+        "department":"Tech",
+        "salary":65000
+      }
     ]
  
   }
